@@ -7,4 +7,4 @@ We add the ancillary Mathematica file about hydrodynamics with the dynamical gau
 ---
 :page_facing_up: ARXIV NUMBER: XXXX.XXXX
 
-:busts_in_silhouette: COLLABORATORS: Yongjun Ahn, Matteo Baggioli, Kyoung-Bum Huh, Keun-Young Kim, and Ya-Wen Sun
+:busts_in_silhouette: COLLABORATORS: Yongjun Ahn, Matteo Baggioli, Kyoung-Bum Huh, Hyun-Sik Jeong, Keun-Young Kim, and Ya-Wen Sun

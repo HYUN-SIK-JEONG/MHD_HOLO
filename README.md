@@ -5,5 +5,6 @@ We add the ancillary Mathematica file about hydrodynamics with the dynamical gau
 3. Dispersion relation at finite dendity
 
 ---
+:page_facing_up: ARXIV NUMBER: XXXX.XXXX
 
-COLLABORATORS: Yongjun Ahn, Matteo Baggioli, Kyoung-Bum Huh, Keun-Young Kim, and Ya-Wen Sun
+:busts_in_silhouette: COLLABORATORS: Yongjun Ahn, Matteo Baggioli, Kyoung-Bum Huh, Keun-Young Kim, and Ya-Wen Sun

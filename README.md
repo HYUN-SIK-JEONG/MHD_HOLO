@@ -1,4 +1,4 @@
-# Hydrodynamics, Dynamical Gauge fields, and Holography
+# Hydrodynamics, Dynamical gauge fields, and Holography
 We add the ancillary Mathematica file about hydrodynamics with the dynamical gauge fields, which is consisting of the followings:
 1. Dynamical matrix
 2. Dispersion relation at zero density

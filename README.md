@@ -6,7 +6,7 @@ We add the ancillary Mathematica file about hydrodynamics with the dynamical gau
 4. Quasi-normal modes vs. Hydrodynamic predictions
 
 ---
-:file_folder: MATHEMATICA: [DOWNLOAD](https://github.com/sicobysico/MHD_HOLO/archive/refs/heads/main.zip)
+:gift:  MATHEMATICA: [DOWNLOAD](https://github.com/sicobysico/MHD_HOLO/archive/refs/heads/main.zip)
 
 :page_facing_up: ARXIV NUMBER: [2211.01760](https://arxiv.org/abs/2211.01760)
 

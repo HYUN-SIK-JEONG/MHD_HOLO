@@ -6,6 +6,6 @@ We add the ancillary Mathematica file about hydrodynamics with the dynamical gau
 4. Quasi-normal modes vs. Hydrodynamic predictions
 
 ---
-:page_facing_up: ARXIV NUMBER: XXXX.XXXX
+:page_facing_up: ARXIV NUMBER: [2211.01760](https://arxiv.org/abs/2211.01760)
 
 :busts_in_silhouette: COLLABORATORS: Yongjun Ahn, Matteo Baggioli, Kyoung-Bum Huh, Hyun-Sik Jeong, Keun-Young Kim, and Ya-Wen Sun
